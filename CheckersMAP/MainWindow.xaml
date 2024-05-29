@@ -1,0 +1,68 @@
+﻿<Window x:Class="CheckersMAP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckersMAP.ViewModels"
+        mc:Ignorable="d"
+        Title="CheckerBoardGame" Height="800" Width="1000"
+        ResizeMode="NoResize" WindowStartupLocation="CenterScreen"
+        Background="FloralWhite">
+    <Window.DataContext>
+        <local:GameViewModels/>
+    </Window.DataContext>
+    <Grid>
+        <ItemsControl x:Name="Grid" ItemsSource="{Binding Board}" Margin="180,100,15,15" >
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <ItemsControl ItemsSource="{Binding}">
+                        <ItemsControl.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <StackPanel Orientation="Horizontal" />
+                            </ItemsPanelTemplate>
+                        </ItemsControl.ItemsPanel>
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <Grid>
+                                    <Border Width="75" Height="75" BorderThickness="1" BorderBrush="#000000">
+                                        <Image Source="{Binding GenericSquare.Texture}" Stretch="UniformToFill"/>
+                                    </Border>
+                                    <Button Command="{Binding ClickPieceCommand}" CommandParameter="{Binding GenericSquare}">
+
+                                        <Button.Template>
+                                            <ControlTemplate>
+                                                <Image Source="{Binding GenericSquare.Piece.Texture}" Height="70" Width="70"/>
+                                            </ControlTemplate>
+                                        </Button.Template>
+                                    </Button>
+                                    <Button Command="{Binding MovePieceCommand}" CommandParameter="{Binding GenericSquare}">
+                                        <Button.Template>
+                                            <ControlTemplate>
+                                                <Image Source="{Binding GenericSquare.LegalSquareSymbol}" Height="20" Width="20"/>
+                                            </ControlTemplate>
+                                        </Button.Template>
+                                    </Button>
+                                </Grid>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+        <Menu Margin="0,0,0,700" DockPanel.Dock="Top">
+            
+            <MenuItem Header="FileMenu">
+                <MenuItem Header="New" Command="{Binding Interactions.ResetCommand}"/>
+                <MenuItem Header="Save" Command="{Binding Interactions.SaveCommand}"/>
+                <MenuItem Header="Open" Command="{Binding Interactions.LoadCommand}"/>
+                <MenuItem Header="Statistics" Command="{Binding Interactions.StatisticsCommand}"/>
+            </MenuItem>
+        </Menu>
+
+        <TextBlock HorizontalAlignment="Left" Margin="850,280,0,0" TextWrapping="Wrap" FontFamily="Segoe UI" FontSize="30" Foreground="#FF00FF" Text="{Binding PlayerTurnViewModels.PlayerText}" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Center" Text="Checkers Board Game" TextWrapping="Wrap" FontSize="30" Foreground="#FF00FF" VerticalAlignment="Top">
+        </TextBlock>
+        <!-- Butonul pentru deschiderea meniului About-->
+        <Button Content="Open Help Menu" Click="OpenHelpMenu_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,32,0,0" RenderTransformOrigin="-2.857,1.014"/>
+    </Grid>
+</Window>

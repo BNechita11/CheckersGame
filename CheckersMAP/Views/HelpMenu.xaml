@@ -1,0 +1,34 @@
+﻿<Window x:Class="CheckersMAP.Views.HelpMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckersMAP.ViewModels"
+        mc:Ignorable="d"
+        Title="HelpMenu" Height="450" Width="800"
+        DataContext="{x:Static local:HelpMenuViewModels.Instance}">
+    <Grid>
+        <Menu>
+            <!-- Meniul "Help" -->
+            <MenuItem Header="_Help">
+                <!-- Submeniul "About" -->
+                <MenuItem Header="About" Click="About_Click">
+                    <MenuItem.HeaderTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="about_icon.png" Width="20" Height="20" Margin="0,0,5,0"/>
+                                <TextBlock Text="About"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </MenuItem.HeaderTemplate>
+                    <!-- Binding pentru ToolTip -->
+                    <MenuItem.ToolTip>
+                        <ToolTip>
+                            <TextBlock Text="{Binding Path=GetAboutInformation}"/>
+                        </ToolTip>
+                    </MenuItem.ToolTip>
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+    </Grid>
+</Window>

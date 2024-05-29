@@ -1,0 +1,45 @@
+﻿
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net5.0-windows</TargetFramework>
+		<UseWPF>true</UseWPF>
+		<LangVersion>8.0</LangVersion>
+	</PropertyGroup>
+	
+	<!--<ItemGroup>
+		<None Remove="C:\Users\Nechita Bianca\Desktop\AN2\sem2\MAP\CheckersMAP\CheckersMAP\Resources\piesaNeagraSimpla.jpg" />
+		<None Remove="C:\Users\Nechita Bianca\Desktop\AN2\sem2\MAP\CheckersMAP\CheckersMAP\Resources\piesaNeagraRege.jpg" />
+		<None Remove="C:\Users\Nechita Bianca\Desktop\AN2\sem2\MAP\CheckersMAP\CheckersMAP\Resources\piesaAlbaSimpla.jpg" />
+		<None Remove="C:\Users\Nechita Bianca\Desktop\AN2\sem2\MAP\CheckersMAP\CheckersMAP\Resources\piesaAlbaRege.jpg" />
+		<None Remove="C:\Users\Nechita Bianca\Desktop\AN2\sem2\MAP\CheckersMAP\CheckersMAP\Resources\hintSquare.png" />
+		<None Remove="C:\Users\Nechita Bianca\Desktop\AN2\sem2\MAP\CheckersMAP\CheckersMAP\Resources\blackSquare.png" />
+		<None Remove="C:\Users\Nechita Bianca\Desktop\AN2\sem2\MAP\CheckersMAP\CheckersMAP\Resources\whiteSquare.png" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Resource Include="C:\Users\Nechita Bianca\Desktop\AN2\sem2\MAP\CheckersMAP\CheckersMAP\Resources\piesaNeagraSimpla.jpg">
+			<CopyToOutputDirectory>Never</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="C:\Users\Nechita Bianca\Desktop\AN2\sem2\MAP\CheckersMAP\CheckersMAP\Resources\piesaNeagraRege.jpg">
+			<CopyToOutputDirectory>Never</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="C:\Users\Nechita Bianca\Desktop\AN2\sem2\MAP\CheckersMAP\CheckersMAP\Resources\piesaAlbaSimpla.jpg">
+			<CopyToOutputDirectory>Never</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="C:\Users\Nechita Bianca\Desktop\AN2\sem2\MAP\CheckersMAP\CheckersMAP\Resources\piesaAlbaRege.jpg">
+			<CopyToOutputDirectory>Never</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="C:\Users\Nechita Bianca\Desktop\AN2\sem2\MAP\CheckersMAP\CheckersMAP\Resources\hintSquare.png">
+			<CopyToOutputDirectory>Never</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="C:\Users\Nechita Bianca\Desktop\AN2\sem2\MAP\CheckersMAP\CheckersMAP\Resources\blackSquare.png">
+			<CopyToOutputDirectory>Never</CopyToOutputDirectory>
+		</Resource>
+		<Resource Include="C:\Users\Nechita Bianca\Desktop\AN2\sem2\MAP\CheckersMAP\CheckersMAP\Resources\whiteSquare.png">
+			<CopyToOutputDirectory>Never</CopyToOutputDirectory>
+		</Resource>
+	</ItemGroup>-->
+
+</Project>

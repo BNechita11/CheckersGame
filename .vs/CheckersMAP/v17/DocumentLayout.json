@@ -1,0 +1,508 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\views\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\views\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\views\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\views\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\checkersmap\\checkersmap\\views\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\views\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|c:\\users\\nechita bianca\\desktop\\an2\\sem2\\map\\checkersmap\\checkersmap\\services\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\services\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\services\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\services\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\viewmodels\\filemenuoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\viewmodels\\filemenuoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\viewmodels\\notifypropertychanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\viewmodels\\notifypropertychanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\models\\winnerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\models\\winnerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\models\\squareshade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\models\\squareshade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\models\\playerturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\models\\playerturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\models\\gamesquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\models\\gamesquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\commands\\nongenericcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\commands\\nongenericcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\viewmodels\\gameviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\viewmodels\\gameviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\models\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\models\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\models\\gamepiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\models\\gamepiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\viewmodels\\gamesquareviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\viewmodels\\gamesquareviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\viewmodels\\playerturnviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\viewmodels\\playerturnviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\views\\helpmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\views\\helpmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\viewmodels\\winnerviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\viewmodels\\winnerviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\enums\\piececolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\enums\\piececolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\enums\\piecetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\enums\\piecetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\resources\\statisticijoc.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\resources\\statisticijoc.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\views\\helpmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\views\\helpmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\viewmodels\\helpmenuviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\viewmodels\\helpmenuviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\checkersmap\\views\\checkersmap.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2EE28BB8-1DCB-4F6C-AB03-9231F6B63890}|CheckersMAP\\CheckersMAP.csproj|solutionrelative:checkersmap\\views\\checkersmap.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nechita Bianca\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 99,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Views\\App.config",
+              "RelativeDocumentMoniker": "CheckersMAP\\Views\\App.config",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Views\\App.config",
+              "RelativeToolTip": "CheckersMAP\\Views\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-21T15:16:26.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerTurn.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Models\\PlayerTurn.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\Models\\PlayerTurn.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Models\\PlayerTurn.cs",
+              "RelativeToolTip": "CheckersMAP\\Models\\PlayerTurn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:10:42.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SquareShade.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Models\\SquareShade.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\Models\\SquareShade.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Models\\SquareShade.cs",
+              "RelativeToolTip": "CheckersMAP\\Models\\SquareShade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:10:59.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WinnerClass.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Models\\WinnerClass.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\Models\\WinnerClass.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Models\\WinnerClass.cs",
+              "RelativeToolTip": "CheckersMAP\\Models\\WinnerClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:11:15.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Services\\Utility.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\Services\\Utility.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Services\\Utility.cs",
+              "RelativeToolTip": "CheckersMAP\\Services\\Utility.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAwDkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:55:14.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileMenuOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\ViewModels\\FileMenuOptions.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\ViewModels\\FileMenuOptions.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\ViewModels\\FileMenuOptions.cs",
+              "RelativeToolTip": "CheckersMAP\\ViewModels\\FileMenuOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:52:35.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotifyPropertyChanges.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\ViewModels\\NotifyPropertyChanges.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\ViewModels\\NotifyPropertyChanges.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\ViewModels\\NotifyPropertyChanges.cs",
+              "RelativeToolTip": "CheckersMAP\\ViewModels\\NotifyPropertyChanges.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:05:41.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Views\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\Views\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Views\\App.xaml.cs",
+              "RelativeToolTip": "CheckersMAP\\Views\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:20:20.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Views\\App.xaml",
+              "RelativeDocumentMoniker": "CheckersMAP\\Views\\App.xaml",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Views\\App.xaml",
+              "RelativeToolTip": "CheckersMAP\\Views\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-12T13:20:21.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameSquare.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Models\\GameSquare.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\Models\\GameSquare.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Models\\GameSquare.cs",
+              "RelativeToolTip": "CheckersMAP\\Models\\GameSquare.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAswG4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:08:18.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PieceColor.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Enums\\PieceColor.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\Enums\\PieceColor.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Enums\\PieceColor.cs",
+              "RelativeToolTip": "CheckersMAP\\Enums\\PieceColor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:08:53.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PieceType.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Enums\\PieceType.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\Enums\\PieceType.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Enums\\PieceType.cs",
+              "RelativeToolTip": "CheckersMAP\\Enums\\PieceType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:09:06.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "statisticiJoc.txt",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Resources\\statisticiJoc.txt",
+              "RelativeDocumentMoniker": "CheckersMAP\\Resources\\statisticiJoc.txt",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Resources\\statisticiJoc.txt",
+              "RelativeToolTip": "CheckersMAP\\Resources\\statisticiJoc.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-12T11:12:37.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HelpMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Views\\HelpMenu.xaml",
+              "RelativeDocumentMoniker": "CheckersMAP\\Views\\HelpMenu.xaml",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Views\\HelpMenu.xaml",
+              "RelativeToolTip": "CheckersMAP\\Views\\HelpMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-14T17:52:48.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HelpMenuViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\ViewModels\\HelpMenuViewModels.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\ViewModels\\HelpMenuViewModels.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\ViewModels\\HelpMenuViewModels.cs",
+              "RelativeToolTip": "CheckersMAP\\ViewModels\\HelpMenuViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:53:57.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Services\\GameLogic.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\Services\\GameLogic.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Services\\GameLogic.cs",
+              "RelativeToolTip": "CheckersMAP\\Services\\GameLogic.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAnwKQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:54:27.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NonGenericCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Commands\\NonGenericCommand.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\Commands\\NonGenericCommand.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Commands\\NonGenericCommand.cs",
+              "RelativeToolTip": "CheckersMAP\\Commands\\NonGenericCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:58:18.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "CheckersMAP\\Commands\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:58:33.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\ViewModels\\GameViewModels.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\ViewModels\\GameViewModels.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\ViewModels\\GameViewModels.cs",
+              "RelativeToolTip": "CheckersMAP\\ViewModels\\GameViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:41:34.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CheckersMAP\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAEwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:05:30.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Models\\GameModel.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\Models\\GameModel.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Models\\GameModel.cs",
+              "RelativeToolTip": "CheckersMAP\\Models\\GameModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:26:44.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CheckersMAP\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\MainWindow.xaml",
+              "RelativeToolTip": "CheckersMAP\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-12T11:05:31.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GamePiece.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Models\\GamePiece.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\Models\\GamePiece.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Models\\GamePiece.cs",
+              "RelativeToolTip": "CheckersMAP\\Models\\GamePiece.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAG0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:08:03.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameSquareViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\ViewModels\\GameSquareViewModels.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\ViewModels\\GameSquareViewModels.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\ViewModels\\GameSquareViewModels.cs",
+              "RelativeToolTip": "CheckersMAP\\ViewModels\\GameSquareViewModels.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwDoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:53:33.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlayerTurnViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\ViewModels\\PlayerTurnViewModels.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\ViewModels\\PlayerTurnViewModels.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\ViewModels\\PlayerTurnViewModels.cs",
+              "RelativeToolTip": "CheckersMAP\\ViewModels\\PlayerTurnViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:01:09.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HelpMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Views\\HelpMenu.xaml.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\Views\\HelpMenu.xaml.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Views\\HelpMenu.xaml.cs",
+              "RelativeToolTip": "CheckersMAP\\Views\\HelpMenu.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswCMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:03:44.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Models\\Player.cs",
+              "RelativeToolTip": "CheckersMAP\\Models\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:27:38.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WinnerViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\ViewModels\\WinnerViewModels.cs",
+              "RelativeDocumentMoniker": "CheckersMAP\\ViewModels\\WinnerViewModels.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\ViewModels\\WinnerViewModels.cs",
+              "RelativeToolTip": "CheckersMAP\\ViewModels\\WinnerViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:01:11.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CheckersMAP.xml",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Views\\CheckersMAP.xml",
+              "RelativeDocumentMoniker": "CheckersMAP\\Views\\CheckersMAP.xml",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\Desktop\\AN2\\sem2\\MAP\\CheckersMAP\\CheckersMAP\\Views\\CheckersMAP.xml",
+              "RelativeToolTip": "CheckersMAP\\Views\\CheckersMAP.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-12T11:42:43.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\Nechita Bianca\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\Nechita Bianca\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAIAwwCsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:44:02.543Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
